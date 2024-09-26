@@ -8,4 +8,4 @@ En este tema veremos conceptos generales acerca de :
 - codigo fuente
 - codigo objeto
 - codigo ejecutable
-- 
+  
